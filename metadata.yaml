@@ -1,0 +1,34 @@
+_repo: The-Cosmic-Express_26066
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Williamson, Jack
+    aliases:
+    - Williamson, John Stewart
+    - Stewart, Will
+    birthdate: 1908
+    deathdate: 2006
+    gutenberg_agent_id: '31775'
+    url: http://www.gutenberg.org/2009/agents/31775
+    wikipedia: http://en.wikipedia.org/wiki/Jack_Williamson
+description: On an entirely tamed planet Earth where can you go to find an untamed
+  wilderness. Nowhere--and that's why Eric Stokes-Harding and his wife decide to zap
+  off to the planet Venus.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26066'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Cosmic Express
+url: http://www.gutenberg.org/ebooks/26066
